@@ -17,7 +17,6 @@ With its focus on dribbling and shooting skills, the WeBall app fills a crucial 
 
 ### Dependencies
 
-* Windows 11 and GPU existence
 * [Python 3.9.11](https://www.python.org/downloads/release/python-3911/)
 * [CUDA 11.8](https://developer.nvidia.com/cuda-toolkit)
 * [cuDNN 9.10](https://developer.nvidia.com/cudnn)
